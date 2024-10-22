@@ -1,6 +1,6 @@
 import { useRef } from 'react'
 
-import Photo1 from '../../assets/img/ava.jpg'
+import Photo1 from '../../assets/img/ava.jpeg'
 import { about } from '../../data'
 import {
   SmoothItem,
