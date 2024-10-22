@@ -2,7 +2,7 @@ import { useRef } from 'react'
 
 import { nanoid } from 'nanoid'
 
-import Photo2 from '../../assets/img/ava.jpg'
+import Photo2 from '../../assets/img/117137974.jpeg'
 import { useSmoothAppearance } from '../../hooks/useSmoothAppearance'
 import {
   Btns,
